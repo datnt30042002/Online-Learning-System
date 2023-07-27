@@ -13,6 +13,7 @@ F8 Online Learning System is an innovative and comprehensive educational platfor
 ![image](https://github.com/datnt30042002/Online-Learning-System/assets/140726707/a1b37b70-22fa-4967-b9de-f9f1c65e460e)
 - Document (SRS, SDS, Release Note,...): Gitlab.
 - Database: Gitlab.
+- Library Support Run Project: Gitlab.
 
  
 
