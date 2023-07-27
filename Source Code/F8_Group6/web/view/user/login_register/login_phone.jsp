@@ -179,7 +179,7 @@
 
 
                                         <div class="col-lg-12 mt-3 text-center">
-                                            <h6 class="d-grid"><a href="https://github.com/login/oauth/authorize?client_id=7546e46ad9badbdb19fe&redirect_uri=http://localhost:9999/F8_Group6/login-github" 
+                                            <h6 class="d-grid"><a href="https://github.com/login/oauth/authorize?client_id=a7e824d060494fe9b9d4&redirect_uri=http://localhost:9999/F8_Group6/login-github" 
                                                                   class="btn btn-soft-primary"
                                                                   style="width: 189.5px; margin: 0 auto;"><i class="uil uil-github"></i> Github</a></h6>
                                         </div><!--end col-->               

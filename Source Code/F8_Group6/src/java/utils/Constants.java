@@ -33,8 +33,8 @@ public class Constants {
     
     // Github
     // Config and receive ID and Secret Github
-    public static String GIT_CLIENT_ID = "7546e46ad9badbdb19fe";
-    public static String GIT_CLIENT_SECRET = "9c72f494060a28b5e211d11e3cd3ecfc8be017ab";
+    public static String GIT_CLIENT_ID = "a7e824d060494fe9b9d4";
+    public static String GIT_CLIENT_SECRET = "09607b21b207ff4a7fa998e35cd7b2dff73e718d";
     // Config URI redirect after Github authenticate
     public static String GIT_REDIRECT_URI = "http://localhost:9999/F8_Group6/login-github";
     // URL to request an access token from Facebook after the user has been authenticated.
